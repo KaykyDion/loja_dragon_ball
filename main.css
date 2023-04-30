@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  padding: 18px 0;
+}
+
+header img {
+  max-height: 100px;
+}
+
+.carousel-item img {
+  max-height: 700px;
+}
+
+.carousel-caption p span {
+  background-color: rgba(0, 0, 0, 0.4);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+del {
+  color: gray;
+}
+
+strong {
+  color: #14cc0e;
+  font-size: 18px;
+}
+
+
+
+
+
